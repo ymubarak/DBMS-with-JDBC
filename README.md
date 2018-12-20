@@ -1,15 +1,15 @@
 # DBMS-with-JDBC
 
-### This is a DataBase Management System(DBMS) that is an application that interacts with the user who is allowed to store and manage data in a database using SQL , with Java DataBase Connectivity (JDBC) which access the databases with a standard API regardless of the driver or the database.
+This is a DataBase Management System(DBMS), An application that interacts with the user who is able to store and manage data in a database using SQL , with Java DataBase Connectivity (JDBC) which access the databases with a standard API.
 
-### You can run the DBMS either from the console/terminal or from the provided GUI.
+You can run the DBMS either from the console/terminal or from the provided GUI.
 
 ## GUI Sample Run:
 
-### Typying the following SQL queries.
+**SQL queries**.
 
 ![sample run](https://raw.githubusercontent.com/youssef-ahmed/DBMS-with-JDBC/master/snap1.JPG)
 
-### After hitting Enter the result is shown below.
+**Results**.
 
 ![sample run](https://raw.githubusercontent.com/youssef-ahmed/DBMS-with-JDBC/master/snap2.JPG)
